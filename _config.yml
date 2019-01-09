@@ -4,10 +4,10 @@ SEOTitle: 谢华东的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 谢华东的博客, qiubaiying, 谢华东, iOS, Apple, iPhone"
-url: "http://xiehuadong.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, 谢华东的博客, thedongplan, 谢华东, iOS, Apple, iPhone"
+url: "http://thedongplan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/thedongplan/thedongplan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
+zhihu_username:     thedongplan
+github_username:    thedongplan
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   thedongplan
 
 
 
